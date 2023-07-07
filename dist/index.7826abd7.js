@@ -2952,7 +2952,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child1"
     }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am h1 tag"),
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello world....!"),
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I am h2 tag")
     ]),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
